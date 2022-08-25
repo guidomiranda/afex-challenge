@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 2,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 3,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 4,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 5,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 6,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 7,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 8,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 9,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    },
+    {
+        "id": 10,
+        "fecha": "2022-01-01",
+        "nombre_apellido": "Guido Miranda",
+        "monto": 100000000,
+        "pais": "Paraguay",
+        "agente_tipo": "persona",
+        "estado": "recibido"
+    }
+]
