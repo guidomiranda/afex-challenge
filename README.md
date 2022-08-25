@@ -22,5 +22,3 @@ b. No es necesario conectar con BD, los ítems puedes extraerlos de un JSON guar
 El código debe correr y funcionar en ambiente local (backend y frontend al mismo tiempo). Versionar en proyectos de github y enviar los links a cada proyecto por correo.
 
 Plazo de entrega: viernes 26 de agosto hasta el final del día.
-
-Saludos.
