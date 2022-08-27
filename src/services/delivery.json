@@ -1,92 +1,92 @@
 [
-    {
-        "id":1,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":2,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":3,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":4,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":5,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":6,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":7,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":8,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":9,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    },
-    {
-        "id":10,
-        "fecha": "2022-01-01",
-        "nombre_apellido":"Guido Miranda",
-        "monto": 100000000,
-        "pais": "Paraguay",
-        "agente_tipo": "persona",
-        "estado": "recibido"
-    }
+  {
+    "id": 1,
+    "fecha": "2022-01-01",
+    "nombre_apellido": "Guido Miranda",
+    "monto": 100000000,
+    "pais": "Paraguay",
+    "agente_tipo": "persona",
+    "estado": "enviado"
+  },
+  {
+    "id": 2,
+    "fecha": "2022-01-02",
+    "nombre_apellido": "Manuel Sanchez",
+    "monto": 3000000,
+    "pais": "Chile",
+    "agente_tipo": "banco",
+    "estado": "recibido"
+  },
+  {
+    "id": 3,
+    "fecha": "2022-01-03",
+    "nombre_apellido": "Gilberto Medina",
+    "monto": 350000,
+    "pais": "Brasil",
+    "agente_tipo": "persona",
+    "estado": "rechazado"
+  },
+  {
+    "id": 4,
+    "fecha": "2022-01-04",
+    "nombre_apellido": "Jhon Pineda",
+    "monto": 1000000,
+    "pais": "Argentina",
+    "agente_tipo": "banco",
+    "estado": "recibido"
+  },
+  {
+    "id": 5,
+    "fecha": "2022-01-05",
+    "nombre_apellido": "Charly Gonzalez",
+    "monto": 145000,
+    "pais": "Uruguar",
+    "agente_tipo": "banco",
+    "estado": "anulado"
+  },
+  {
+    "id": 6,
+    "fecha": "2022-01-06",
+    "nombre_apellido": "Juaquin Sabina",
+    "monto": 3200000,
+    "pais": "Colombia",
+    "agente_tipo": "persona",
+    "estado": "reversado"
+  },
+  {
+    "id": 7,
+    "fecha": "2022-01-07",
+    "nombre_apellido": "Agustin Barrios",
+    "monto": 750000,
+    "pais": "Venezuela",
+    "agente_tipo": "banco",
+    "estado": "recibido"
+  },
+  {
+    "id": 8,
+    "fecha": "2022-01-08",
+    "nombre_apellido": "Francisco Lopez",
+    "monto": 13000000,
+    "pais": "Ecuador",
+    "agente_tipo": "persona",
+    "estado": "recibido"
+  },
+  {
+    "id": 9,
+    "fecha": "2022-01-09",
+    "nombre_apellido": "Asuncion Flores",
+    "monto": 6000000,
+    "pais": "Bolivia",
+    "agente_tipo": "banco",
+    "estado": "recibido"
+  },
+  {
+    "id": 10,
+    "fecha": "2022-01-10",
+    "nombre_apellido": "Nadia Portillo",
+    "monto": 100000,
+    "pais": "Peru",
+    "agente_tipo": "persona",
+    "estado": "enviado"
+  }
 ]
